@@ -31,4 +31,6 @@ Push Tags
 
 Get a Tag
 ---------
-> 
+> git clone ...
+> git checkout TAG_NAME
+
