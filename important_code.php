@@ -5,7 +5,9 @@ $mysqli = new mysqli($host, $user, $pword, $db);
 
 // now do important stuff
 $query = "get my data";
-$results = $mysqli->query($query); 
+$results = $mysqli->query($query);
+
+// added more stuff 
 
 
 
